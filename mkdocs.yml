@@ -11,22 +11,34 @@ theme:
   features:
     - content.tooltips
     - navigation.footer
-  palette:
-    # Dark Mode
-    - scheme: slate
-      toogle:
-        icon: material/wea
-        name: Thème Sombre
-      primary: green
-      accent: deep purple
 
-    # Light Mode
-    - scheme: default
-      toogle:
-        icon: material/weather-night
-        name: Thème Clair
-      primary: green
-      accent: deep orange
+  palette:
+
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+      primary: blue
+      accent: indigo
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+      primary: blue
+      accent: indigo
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+      primary: blue
+      accent: indigo
 
 markdown_extensions:
   - abbr
