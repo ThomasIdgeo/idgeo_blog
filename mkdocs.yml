@@ -11,6 +11,8 @@ theme:
   features:
     - content.tooltips
     - navigation.footer
+  extra_css:
+  - stylesheets/extra.css
 
   palette:
 
@@ -39,6 +41,12 @@ theme:
         name: Switch to system preference
       primary: blue
       accent: indigo
+  
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - blog
 
 markdown_extensions:
   - abbr

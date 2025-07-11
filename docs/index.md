@@ -1,6 +1,13 @@
-# Ressourcerie ou blog IDGEO
+# Ressourcerie / blog IDGEO
 
 ![logo idgeo](assets/idgeo-logo.png)
+
+
+```sql
+SELECT documentation
+FROM idgeo.blog
+WHERE post like '%opensource%';
+```
 
 Bienvenue dans la ressourcerie d'IDGEO
 -------
@@ -11,9 +18,9 @@ Cette ressourcerie est alimentée par la générosité des apprenants d'Idgeo qu
 
 ### Des améliorations
 
-- gestion des articles en blogs pour ajouter la notion d'archive de date de sortie ou encore d'auteur
-- ajout des support video
-- extra css pour personnaliser au maximum
+    - [ ] gestion des articles en blogs pour ajouter la notion d'archive de date de sortie ou encore d'auteur
+    - [x] ajout des videos (avec embed)
+    - [x] extra css pour personnaliser au maximum
 - ... des idées ?
 
 ![](assets/ressourcerie_gpt.png)

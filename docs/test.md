@@ -1,8 +1,11 @@
-# Test sur MkDocs
+# Tuto MkDocs
 
 Documentation complète [mkdocs.org](https://www.mkdocs.org).
 
-Petite vidéo tuto [https://www.youtube.com/watch?v=xlABhbnNrfI&t=0s](https://www.youtube.com/watch?v=xlABhbnNrfI&t=40s)
+Petite vidéo tuto 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xlABhbnNrfI?si=kPEMzQLnTQk9PUO2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[https://www.youtube.com/watch?v=xlABhbnNrfI&t=0s](https://www.youtube.com/watch?v=xlABhbnNrfI&t=40s)
 
 ## Commandes locales pour démarrer et construire le site
 

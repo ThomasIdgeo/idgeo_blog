@@ -6,9 +6,9 @@ On s'intéresse ici à comment ajouter des webservices dans QGIS.
 
 ## Les services XYZ Tiles de Google
 
-Si on veut unr ortho hors du territoire national et mondiale,
+Si on veut une ortho hors du territoire national et mondiale,
 on peut utiliser exceptionnellement les fonds de plan de google.
-Néanmoins, leur utilisation doit resté dans un cadre non commercial.
+Néanmoins, leur utilisation doit rester dans un cadre non commercial.
 
 Une rapide recherche sur un moteur de recherche, avec les mots clés "xyz tiles google maps" vous permet de trouver les liens vers
 les url disponibles.
