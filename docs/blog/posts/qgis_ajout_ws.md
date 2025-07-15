@@ -1,3 +1,12 @@
+---
+authors:
+  - thomas
+categories:
+  - QGIS
+date:
+  created: 2024-06-15
+---
+
 # QGIS - Ajouter des Web Services
 
 Par défaut, QGIS dispose déjà du fond Open Street Map préinstallé.

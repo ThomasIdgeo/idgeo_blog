@@ -4,8 +4,12 @@ On est pro et on sait se détendre aussi, parcequ'il faut !
 
 ## Mappymeme et autre carto rigolote
 
-
 ![la terre est ronde](../assets/mappymeme/terre_ronde_cons.png)
+
+Des mappymemes dédié à OSM (info diffusée sur la GeoRDP du 11 Juillet 2025)
+![#osmmappymeme](https://forum.openstreetmap.fr/t/creer-des-memes-avec-framamemes-org/35402/5)
+
+Et un rebond de plus, on trouve un **frama** site qui permet de fabriquer ses propres mêmes ![](https://framamemes.org/?meme=anakin_padme)
 
 ## Clara & Jules
 

@@ -1,0 +1,22 @@
+authors:
+  thomas:
+    name: Thomas        # Author name
+    description: creator # Author description
+    avatar: https://api.dicebear.com/9.x/adventurer-neutral/svg?seed=Kingston        # Author avatar
+    slug: url           # Author profile slug
+    url: url            # Author website URL
+
+  laura:
+    name: Laura
+    description: gis lover power
+    avatar: https://api.dicebear.com/9.x/adventurer-neutral/svg?seed=Eden
+
+  fanny:
+    name: Fanny
+    description: gis power ranger
+    avatar: https://api.dicebear.com/9.x/adventurer-neutral/svg?seed=Avery
+
+  jeff:
+    name: postgis lover
+    description: postgis jedy
+    avatar: https://api.dicebear.com/9.x/adventurer-neutral/svg?seed=Destiny

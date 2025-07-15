@@ -1,15 +1,26 @@
+---
+authors:
+  - thomas
+categories:
+  - Linux
+date:
+  created: 2024-01-12
+---
+
 # Premier pas dans un environnement Linux
 
 ## Découverte de l'OS Ubuntu
 
 Les ressources sont nombreuses sur l'histoire de Linux. Le web regorge également d'infos sur l'OS **Ubuntu**. Nous ne referons pas l'histoire ici car ce n'est pas le propos.
 
-Ce dépot sert de support de formation pour la découverte d'Ubuntu et ses grands principes : l'arborescence et l'**usage de la ligne de commande** pour se familiariser avec l'environnement.
+Cet article a servi de support de formation pour la découverte d'Ubuntu et ses grands principes : l'arborescence et l'**usage de la ligne de commande** pour se familiariser avec l'environnement.
+
+<!-- more -->
 
 Pour compléter votre documentation => [le Wiki francophone - Ubuntu.fr](https://doc.ubuntu-fr.org/accueil)
 Une autre source utilisée et sympa [Source linuxtricks.fr](https://www.linuxtricks.fr/wiki/arborescence-du-systeme-linux)
 
-Bien sûr nous garderons en vue une finalité d'usage(s) ** géomatique !**
+Bien sûr nous garderons en vue une finalité d'usage(s) **géomatique !**
 
 ### Arborescence type (valable pour tous les OS Linux)
 

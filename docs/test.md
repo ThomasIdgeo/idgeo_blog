@@ -45,7 +45,7 @@ FROM table t1
 Where condition like "compliquée";
 ```
 
-### Bloc code avec des tabulation
+### Bloc code avec des tabulations
 
 === "Code Md"
 

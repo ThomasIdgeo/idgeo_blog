@@ -18,7 +18,8 @@ Cette ressourcerie est alimentée par la générosité des apprenants d'Idgeo qu
 
 ### Des améliorations
 
-    - [ ] gestion des articles en blogs pour ajouter la notion d'archive de date de sortie ou encore d'auteur
+    - [x] gestion des articles en blogs pour ajouter la notion d'archive de date de sortie ou encore d'auteur
+      - [ ] Ajouter le titre des articles ou listes des articles
     - [x] ajout des videos (avec embed)
     - [x] extra css pour personnaliser au maximum
 - ... des idées ?

@@ -1,8 +1,19 @@
+---
+authors:
+  - thomas
+categories:
+  - Web
+date:
+  created: 2023-06-15
+---
+
 ## Tuilage raster
 
 **Définition**
 
 L'origine, comme une bonne recette, une révélation ou une création artistico technique !
+
+<!-- more -->
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
   <iframe src="https://geo.dailymotion.com/player.html?video=x8iajim"

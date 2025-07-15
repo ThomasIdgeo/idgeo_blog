@@ -11,8 +11,6 @@ theme:
   features:
     - content.tooltips
     - navigation.footer
-  extra_css:
-  - stylesheets/extra.css
 
   palette:
 
@@ -46,7 +44,15 @@ extra_css:
   - stylesheets/extra.css
 
 plugins:
-  - blog
+  - blog:
+      blog_dir: blog
+      post_date_format: medium
+      post_url_date_format: yyyy/MM/dd
+      post_url_format: "{date}/{slug}"
+      post_excerpt_separator: <!-- more -->
+      archive_date_format: yyyy
+      archive_url_date_format: yyyy
+
 
 markdown_extensions:
   - abbr
