@@ -22,9 +22,10 @@ Cette ressourcerie est alimentée par la générosité des apprenants d'Idgeo qu
 - [ ] Ajouter le titre des articles ou listes des articles
     - [x] ajout des videos (avec embed)
     - [x] extra css pour personnaliser au maximum
+- [ ] Les bonnes pratiques de la ressourcerie
+- [ ] ref biblio (les liens vers les doc officielles)
   
 ... des idées ?
 
 ![](assets/ressourcerie_gpt.png)
 *Image Générée par le chat qui prout*
-
